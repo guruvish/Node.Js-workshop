@@ -1,0 +1,16 @@
+{
+  "name": "js-workshop",
+  "version": "1.0.0",
+  "main": "demo.js",
+  "scripts": {
+    "test": "aa"
+  },
+  "repository": {
+    "type": "git",
+    "url": "aa"
+  },
+  "author": "guru",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
